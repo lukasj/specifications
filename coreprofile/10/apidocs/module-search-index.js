@@ -1,0 +1,1 @@
+moduleSearchIndex = [{"l":"jakarta.annotation"},{"l":"jakarta.cdi"},{"l":"jakarta.cdi.lang.model"},{"l":"jakarta.inject"},{"l":"jakarta.interceptor"},{"l":"jakarta.json"},{"l":"jakarta.json.bind"},{"l":"jakarta.ws.rs"}];updateSearchResults();
